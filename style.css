@@ -1,0 +1,46 @@
+.osnova {
+  border: 3px solid blue;
+  width: 950px;
+  height: 220px;
+  margin: auto;
+  padding-left: 200px;
+  padding-right: 50px;
+}
+.text1 {
+  display: inline-block;
+  border: 3px solid red;
+  margin-bottom: 100px;
+  margin-left: 50px;
+  height: 80px;
+  padding: 15px;
+  text-align: center;
+  line-height: 4px;
+  padding-bottom: 1px;
+  padding-top: 55px;
+}
+.text2 {
+  border: 3px solid green;
+  margin-left: 20px;
+  height: 100px;
+  padding: 15px;
+  margin-top: 20px;
+  display: inline-block;
+  text-align: center;
+  line-height: 4px;
+}
+.text3 {
+  border: 3px solid violet;
+  margin-left: 20px;
+  line-height: 4px;
+  margin-right: 50px;
+  height: 90px;
+  display: inline-block;
+  text-align: center;
+  padding: 15px;
+  padding-bottom: 1px;
+  padding-top: 36px;
+}
+.x {
+  color: blue;
+  text-decoration: underline;
+}
